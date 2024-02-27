@@ -4,8 +4,8 @@ Ciao ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Frontend Developer
 ------------------
 
-*👨‍💻 Sono un ragazzo appassionato di tecnologia💻, gaming🎮 e musica🎵 
-*💭 Sempre alla ricerca di nuovi stimoli e opportunità per crescere sia come professionista che come persona. 🤝
+* 👨‍💻 Sono un ragazzo appassionato di tecnologia💻, gaming🎮 e musica🎵 
+* 💭 Sempre alla ricerca di nuovi stimoli e opportunità per crescere sia come professionista che come persona. 🤝
 
 * 🌍  Latina
 * ✉️  [emanuele.macchiarulo.1998@gmail.com](mailto:emanuele.macchiarulo.1998@gmail.com)
